@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageManager>
+	<Translations>
+		<Translation Key="BattleSystem_1">
+			<English>A wild {0} appeared.</English>
+			<Spanish>Un {0} salvaje aparecio</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_2">
+			<English>{0} wants to battle</English>
+			<Spanish>{0} quiere pelear</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_3">
+			<English>{0} send out {1}</English>
+			<Spanish>{0} saca a {1}</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_4">
+			<English>Go {0}!</English>
+			<Spanish>Adelante {0}!</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_5">
+			<English>Choose an action</English>
+			<Spanish>Elige una accion</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_6">
+			<English>{0} is about to use {1}. Do you want to change pokemon?</English>
+			<Spanish>{0} va a usar {1}. ¿Quieres cambiar de pokemon?</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_7">
+			<English>{0} used {1}</English>
+			<Spanish>{0} uso {1}</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_8">
+			<English>{0} Fainted</English>
+			<Spanish>{0} se Desmayo</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_9">
+			<English>{0}'s attack missed</English>
+			<Spanish>El ataque de {0} fallo</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_10">
+			<English>A critical hit!</English>
+			<Spanish>¡Un golpe critico!</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_11">
+			<English>It's super effective!</English>
+			<Spanish>Es super efectivo!</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_12">
+			<English>It's not very effective!</English>
+			<Spanish>¡No es muy efectivo!</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_13">
+			<English>You can't send out a fainted pokemon</English>
+			<Spanish>No puedes sacar un pokemon desmayado</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_14">
+			<English>You can't switch with the same pokemon</English>
+			<Spanish>No puedes cambiar al mismo pokemon</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_15">
+			<English>You have to choose a pokemon to continue</English>
+			<Spanish>Tienes que elegir un pokemon para continuar</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_16">
+			<English>Go {0}!</English>
+			<Spanish>¡Adelante {0}!</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_17">
+			<English>Come back {0}</English>
+			<Spanish>Vuelve {0}</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_18">
+			<English>{0} send out {1}!</English>
+			<Spanish>¡{0} saca a {1}!</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_19">
+			<English>You can't steal the trainers pokemon!</English>
+			<Spanish>¡No puedes robar el pokemon de su entrenador!</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_20">
+			<English>{0} used POKEBALL!</English>
+			<Spanish>¡{0} uso POKEBALL!</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_21">
+			<English>{0} was caught</English>
+			<Spanish>{0} fue capturado</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_22">
+			<English>{0} has been added to your party</English>
+			<Spanish>{0} ha sido añadido a tu equipo</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_23">
+			<English>{0} broke free</English>
+			<Spanish>{0} se libero</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_24">
+			<English>Almost caught it</English>
+			<Spanish>Casi lo capturas</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_25">
+			<English>You can't run from trainer battles!</English>
+			<Spanish>¡No puedes huir de batallas con entrenadores!</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_26">
+			<English>Ran away safely!</English>
+			<Spanish>¡Huyo sano y salvo!</Spanish>
+		</Translation>
+		<Translation Key="BattleSystem_27">
+			<English>Can't escape!</English>
+			<Spanish>¡No puede escapar!</Spanish>
+		</Translation>
+		<Translation Key="PartyScreen_1">
+			<English>Choose a pokemon</English>
+			<Spanish>Elige un pokemon</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_1">
+			<English>Poison</English>
+			<Spanish>Veneno</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_2">
+			<English>has been poisoned</English>
+			<Spanish>ha sido envenenado</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_3">
+			<English>{0} hurt itself due to poison</English>
+			<Spanish>{0} se hizo daño a si mismo por envenenamiento</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_4">
+			<English>Burn</English>
+			<Spanish>Quemado</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_5">
+			<English>has been burned</English>
+			<Spanish>ha sido quemado</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_6">
+			<English>{0} hurt itself due to burn</English>
+			<Spanish>{0} se hizo daño a si mismo por quemadura</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_7">
+			<English>Paralyzed</English>
+			<Spanish>Paralizado</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_8">
+			<English>has been paralyzed</English>
+			<Spanish>ha sido paralizado</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_9">
+			<English>{0} is paralyzed and can't move</English>
+			<Spanish>{0} ha sido parlizado y no se puede mover</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_10">
+			<English>Freeze</English>
+			<Spanish>Congelacion</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_11">
+			<English>has been frozen</English>
+			<Spanish>ha sido congelado</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_12">
+			<English>{0} is not frozen anymore</English>
+			<Spanish>{0} ya no esta congelado</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_13">
+			<English>Sleep</English>
+			<Spanish>Dormir</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_14">
+			<English>has fallen asleep</English>
+			<Spanish>ha quedado dormido</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_15">
+			<English>{0} woke up!</English>
+			<Spanish>¡{0} se levanto</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_16">
+			<English>{0} is sleeping</English>
+			<Spanish>{0} esta dormido</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_17">
+			<English>Confusion</English>
+			<Spanish>Confusion</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_18">
+			<English>has been confused</English>
+			<Spanish>esta confundido</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_19">
+			<English>{0} kicked out of confusion</English>
+			<Spanish>{0} salio de la confusion</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_20">
+			<English>{0} is confused</English>
+			<Spanish>{0} esta confuso</Spanish>
+		</Translation>
+		<Translation Key="ConditionDB_21">
+			<English>It hurt itself due to confusion </English>
+			<Spanish>Se hizo daño a si mismo por la confusion</Spanish>
+		</Translation>
+		<Translation Key="Pokemon_1">
+			<English>{0}´s {1} rose!</English>
+			<Spanish>¡El {1} de {0} crecio!</Spanish>
+		</Translation>
+		<Translation Key="Pokemon_2">
+			<English>{0}´s {1} fell</English>
+			<Spanish>¡El {1} de {0} decrecio!</Spanish>
+		</Translation>
+	</Translations>
+</LanguageManager>

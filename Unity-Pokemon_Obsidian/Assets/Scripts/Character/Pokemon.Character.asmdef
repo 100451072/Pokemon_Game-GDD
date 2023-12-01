@@ -1,0 +1,17 @@
+{
+    "name": "Pokemon.Character",
+    "rootNamespace": "",
+    "references": [
+        "GUID:22f707028948386478f3615458da53c6",
+        "GUID:7cdc1ebff510eeb4e9468bc27b51f91c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

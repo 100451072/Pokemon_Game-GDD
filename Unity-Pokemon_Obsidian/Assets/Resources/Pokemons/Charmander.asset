@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4d1216440fff964089fd7f022894100, type: 3}
+  m_Name: Charmander
+  m_EditorClassIdentifier: 
+  _name: Charmander
+  _description: The flame at the tip of its tail makes a sound as it burns. You can
+    only hear it in quiet places.
+  _frontSprite: {fileID: 21300000, guid: cd259d9d4f8ba2749a16d1cc64d46bec, type: 3}
+  _backSprite: {fileID: 21300000, guid: ed8e1d9976a1fd94d961840d8f6e7764, type: 3}
+  _type1: 2
+  _type2: 0
+  _maxHp: 39
+  _attack: 52
+  _defense: 43
+  _spAttack: 60
+  _spDefense: 50
+  _speed: 65
+  _catchRate: 45
+  _learnableMoves:
+  - _base: {fileID: 11400000, guid: 5efa0712c51e50d48a39991aa5ed11d8, type: 2}
+    _level: 1
+  - _base: {fileID: 11400000, guid: f7d264122ecdd474b967b9b681e222de, type: 2}
+    _level: 1
+  - _base: {fileID: 11400000, guid: d132d5b94dbc9574b83faee4d300a558, type: 2}
+    _level: 7

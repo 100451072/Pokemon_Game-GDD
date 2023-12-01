@@ -1,0 +1,17 @@
+{
+    "name": "Pokemon.Moves",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2b021c07713db544197bdaf144ed6727",
+        "GUID:38e255955ec33ab46b428fd60b059ff5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

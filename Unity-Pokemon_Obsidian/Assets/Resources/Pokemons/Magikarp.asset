@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4d1216440fff964089fd7f022894100, type: 3}
+  m_Name: Magikarp
+  m_EditorClassIdentifier: 
+  _name: Magikarp
+  _description: It is virtually worthless in terms of both power and speed. It is
+    the most weak and pathetic pokemon in the world.
+  _frontSprite: {fileID: 21300000, guid: 20fd302447186b549960f8c29c78114a, type: 3}
+  _backSprite: {fileID: 21300000, guid: d76724c7f83e079409e2259d38dee4ba, type: 3}
+  _type1: 3
+  _type2: 0
+  _maxHp: 20
+  _attack: 10
+  _defense: 55
+  _spAttack: 15
+  _spDefense: 20
+  _speed: 80
+  _catchRate: 255
+  _learnableMoves:
+  - _base: {fileID: 11400000, guid: 72465febd2b90a54a85daaa4fbde66d1, type: 2}
+    _level: 1
+  - _base: {fileID: 11400000, guid: 1b6c05658c7db6f4295f3ca629787e2d, type: 2}
+    _level: 15
+  - _base: {fileID: 11400000, guid: 1af6907775ee7234f98892d34db0fb83, type: 2}
+    _level: 25

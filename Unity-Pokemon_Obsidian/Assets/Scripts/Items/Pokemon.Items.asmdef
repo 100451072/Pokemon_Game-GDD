@@ -1,0 +1,17 @@
+{
+    "name": "Pokemon.Items",
+    "rootNamespace": "",
+    "references": [
+        "GUID:117c108dab308974cafeede06df746fe",
+        "GUID:af894979c12d8b844b92ffd64c10c88d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

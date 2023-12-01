@@ -1,0 +1,26 @@
+{
+    "name": "Pokemon.Battle",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:117c108dab308974cafeede06df746fe",
+        "GUID:af894979c12d8b844b92ffd64c10c88d",
+        "GUID:c13aa11de2c57a148834f4a4eba36840",
+        "GUID:2b021c07713db544197bdaf144ed6727",
+        "GUID:38e255955ec33ab46b428fd60b059ff5",
+        "GUID:a36d61068dca3f24fbb4a92f33ebd7cd",
+        "GUID:67a4f4ae34adcb34eb666d34d136bb12",
+        "GUID:339607d959a71f14eadd1d72a99e0287"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
